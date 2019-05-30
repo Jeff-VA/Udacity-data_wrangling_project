@@ -23,12 +23,6 @@ In order to view the details of the project with ease, simply open the following
 * `wrangle_report.ipynb`
 * `act_report.ipynb`
 
-#### HTML exports of notebooks
-
-* `wrangle_act.html`
-* `wrangle_report.html`
-* `act_report.html`
-
 #### Data files
 
 * `twitter_archive_master.csv`
