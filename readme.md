@@ -5,7 +5,7 @@ May 16, 2019
 Wrangling of Twitter Data with Python 
 
 ### Description
-This project exemplifies the use of python code for gathering and cleaning data. Specifically, data is gathered through programatically downloading files and using an API to access specific data from the popular "WeRateDogs" twitter page.
+This project exemplifies the use of python code for gathering and cleaning data. Specifically, data is gathered by programatically downloading files and using an API to access specific data from the popular "WeRateDogs" twitter page.
 
 In order to view the details of the project with ease, simply open the following `.ipynb` files in github as they will render automatically.
 * `wrangle_act.ipynb`
