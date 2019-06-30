@@ -53,6 +53,6 @@ In order to view the details of the project with ease, simply open the following
 
 ###### Sources code reference:
 
-* Python Standard Library: https://docs.python.org/3/library/
-* Pandas Library: https://pandas.pydata.org/pandas-docs/stable/
-* Matplotlib Library: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
+* [Python Standard Library](https://docs.python.org/3/library/)
+* [Pandas Library](https://pandas.pydata.org/pandas-docs/stable/)
+* [Matplotlib Library](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html)
