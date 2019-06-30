@@ -2,16 +2,16 @@
 May 16, 2019
 
 ### Project Title
-Data wrangling and analysis with python
+Wrangling of Twitter Data with Python 
 
 ### Description
-This is a project for the Udacity Data Analyst Nanodegree program.  The included documents demonstrate the power of python code for use in programmatically accessing web data for analysis.  Specifically, the use of an API is used to download twitter data for the popular "WeRateDogs" page.  
+This project exemplifies the use of python code for gathering and cleaning data. Specifically, data is gathered through programatically downloading files and using an API to access specific data from the popular "WeRateDogs" twitter page.
 
 In order to view the details of the project with ease, simply open the following `.ipynb` files in github as they will render automatically.
 * `wrangle_act.ipynb`
  * This file includes the entire wrangling process, as well as a brief analysis of the data.
 * `wrangle_report.ipynb`
- * This notebook briefly breaks down the wrangling process and is meant as a supplemental document
+ * This notebook briefly breaks down the wrangling process 
 * `act_report.ipynb`
  * This notebook includes two visualizations and a summary of findings from the analysis
 
